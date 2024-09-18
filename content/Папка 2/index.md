@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Блог
 ---
 
 This is a blank Quartz installation.
