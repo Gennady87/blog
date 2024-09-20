@@ -1,4 +1,5 @@
 ---
 title: Модуль 1
-draft: false
+tags:
+  - Ai
 ---
