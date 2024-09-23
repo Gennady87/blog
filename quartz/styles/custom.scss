@@ -1,3 +1,24 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+@media (max-width: 768px) {
+    .sidebar {
+        display: none;
+    }
+
+    .sidebar.active {
+        display: block;
+    }
+
+    .menu-toggle {
+        display: block;
+        cursor: pointer;
+        font-size: 1.5em;
+        margin-left: 10px;
+        background: none;
+        border: none;
+        color: inherit;
+    }
+}
+
