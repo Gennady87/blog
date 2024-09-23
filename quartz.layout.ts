@@ -4,7 +4,9 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    Component.Button({ id: "menu-toggle", text: "☰" }), // Добавляем кнопку меню
+    ],
   afterBody: [],
   footer: Component.Footer({
     links: {
@@ -12,6 +14,9 @@ export const sharedPageComponents: SharedLayout = {
       "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
+  afterBody: [
+    Component.Script({ src: "/custom.js" }) // Подключение пользовательского JS-файла
+  ],
 }
 
 // components for pages that display a single page (e.g. a single note)
