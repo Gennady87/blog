@@ -5,8 +5,8 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-    Component.Button({ id: "menu-toggle", text: "☰" })
-],
+     `<button id="menu-toggle">☰</button>`,
+     ],
   afterBody: [],
   footer: Component.Footer({
     links: {
