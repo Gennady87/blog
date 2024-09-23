@@ -4,10 +4,7 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [
-    Component.Darkmode(), // Существующий компонент для переключения тем
-    Component.Button({ id: "menu-toggle", text: "☰" }), // Добавляем кнопку меню
-    ],
+  header: [],
   afterBody: [],
   footer: Component.Footer({
     links: {
