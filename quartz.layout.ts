@@ -12,6 +12,9 @@ export const sharedPageComponents: SharedLayout = {
       "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
+  afterBody: [
+    Component.Script({ src: "./custom.js" }) // Подключение пользовательского JS-файла
+  ],
 }
 
 // components for pages that display a single page (e.g. a single note)
