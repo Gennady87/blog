@@ -13,7 +13,7 @@ export const sharedPageComponents: SharedLayout = {
     },
   }),
   afterBody: [
-    Component.Script({ src: "./custom.js" }) // Подключение пользовательского JS-файла
+    Component.Script({ src: "/custom.js" }) // Подключение пользовательского JS-файла
   ],
 }
 
