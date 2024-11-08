@@ -1,5 +1,5 @@
 ---
-title: Идеи
+title: Блог
 ---
 
 This is a blank Quartz installation.

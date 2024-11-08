@@ -1,5 +1,5 @@
 ---
-title: Туториалы/лайфхаки по Ai и не только!
+title: Welcome to my blog!
 ---
 
 This is a blank Quartz installation.
