@@ -1,3 +1,5 @@
 ---
 title: VPN
+tags:
+  - Vpn
 ---
