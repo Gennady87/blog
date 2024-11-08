@@ -1,5 +1,5 @@
 ---
-title: Работа
+title: Проекты
 ---
 
 This is a blank Quartz installation.
