@@ -82,10 +82,10 @@ const config: QuartzConfig = {
     //     },
       },
     },
-    sidebar: {
-      showExplorer: true, // Отображение проводника
-      showTags: true,     // Отображение тегов
-    },
+    // sidebar: {
+    //   showExplorer: true, // Отображение проводника
+    //   showTags: true,     // Отображение тегов
+    // },
   },
   plugins: {
     transformers: [
