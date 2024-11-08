@@ -115,9 +115,9 @@ a {
 }
 
 .mobile-only {
-  display: initial;
+  display: none;
   @media all and (max-width: $fullPageWidth) {
-    display: none;
+    display: initial;
   }
 }
 
