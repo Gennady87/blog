@@ -51,7 +51,5 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
-  right: [
-    Component.TagList(), // Попытка отобразить теги в правой части страницы
-  ],
+  right: [],
 }
