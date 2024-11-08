@@ -97,6 +97,7 @@
 - Скачайте соответствующее приложение для **iOS**, **Android**, **macOS** или **Windows**.
 - Настройте клиент аналогично, выгрузив конфигурацию с сервера.
 - Самый простой способ — сгенерировать QR-код через веб-интерфейс и отсканировать его на устройстве.
+##### [Клиенты VLESS, Shadowsocks, Trojan (Xray, Sing-box) для Windows, Android, iOS, MacOS, Linux](https://itdog.info/klienty-vless-shadowsocks-trojan-xray-sing-box-dlya-windows-android-ios-macos-linux/#v2rayng)
 
 ## Заключение
 
