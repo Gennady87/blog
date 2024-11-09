@@ -41,7 +41,7 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(), 
     Component.ArticleTitle(), 
-    Component.ContentMeta()
+    Component.ContentMeta(),
     Component.TagList(), // Отображение тегов на главной странице и страницах списка
   ],
   left: [
