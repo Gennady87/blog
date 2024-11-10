@@ -8,8 +8,8 @@
 
 [GitHub - coleam00/bolt.new-any-llm: Prompt, run, edit, and deploy full-stack web applications using any LLM you want!](https://github.com/coleam00/bolt.new-any-llm)
 
-> [!attention] 
->Все команды выполняются в терминале!
+> [!attention] Все команды выполняются в терминале!
+>
 
 #### Установка
 
