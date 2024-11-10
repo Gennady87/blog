@@ -1,5 +1,3 @@
-#Ai  
-
 ![Руководство от Авторов Форка coleam00/bolt-any-llm](https://youtu.be/3PFcAu_oU80?si=2t4ixyJeLq0cCoVs)
 
 Отдельная Аудиодорожка на Русском: ![[I Forked Bolt 1993.mp3]]
