@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "blog.n8nhub.ru",
     ignorePatterns: ["private", "templates", ".obsidian", "my_sketches"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       typography: {
         header: "Schibsted Grotesk",
