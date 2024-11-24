@@ -4,8 +4,8 @@ tags:
   - главная
 "layout:": default
 ---
-`Статьи:` | [[3X-UI panel VLESS]] | [[Bolt.new local]] | [[Github и Git – основные команды]]
+`Статьи:` | [[3X-UI panel VLESS]] | [[Bolt.new local]] | [[1. Github и Git – основные команды]] | [[1. Основы Markdown]] | 
 
-![[Terminator_.png]]
+![[Ai.png]]
 ___
 ![[Проводник]]
