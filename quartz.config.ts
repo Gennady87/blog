@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "ru-RU",
     baseUrl: "blog.n8nhub.ru",
-    ignorePatterns: ["private", "templates", ".obsidian", "my_sketches", "Drafts", "Community"],
+    ignorePatterns: ["private", "templates", ".obsidian", "my_sketches", "Drafts", "0. Community"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
